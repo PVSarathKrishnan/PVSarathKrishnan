@@ -23,7 +23,7 @@
 </p>
     <h4 align="center">Tools</h4>
    <p align="center">
-   <img align="center" alt="mysql" width="auto" src="https://imgs.search.brave.com/mvIp75wzVJVc3Yf8T6huX1mCzaR-fYHBvi7SsWxbLb8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzUzMjAx/NzQvc2NyZWVuc2hv/dHMvMTcwNzIwMjQv/bWVkaWEvNWE3MmY4/ZTM1NTk4NGY4NWIw/ZGRiOTg2ZjhmNzAw/ZmEucG5nP3Jlc2l6/ZT00MDB4MzAwJnZl/cnRpY2FsPWNlbnRl/cg" />
+   <img align="center" alt="mysql" width="auto" src="https://imgs.search.brave.com/FdIGGfc3R9dZX9ggCvuTLVjuAb0LfOkNMSxiNmq0NrE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/ZmlnbWEuc3Zn.svg" />
 </p>
  
  <h4 align="center"> Version control</h4>
