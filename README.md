@@ -16,7 +16,7 @@
 </p>
     <h4 align="center">Tools</h4>
    <p align="center">
-   <img align="center" alt="mysql" width="100px" src="https://imgs.search.brave.com/FdIGGfc3R9dZX9ggCvuTLVjuAb0LfOkNMSxiNmq0NrE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/ZmlnbWEuc3Zn.svg" />
+   <img align="center" alt="mysql" width="80px" src="https://imgs.search.brave.com/FdIGGfc3R9dZX9ggCvuTLVjuAb0LfOkNMSxiNmq0NrE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/ZmlnbWEuc3Zn.svg" />
 </p>
  
  <h4 align="center"> Version control</h4>
