@@ -2,13 +2,6 @@
 <h1 align="center">Sarath Krishnan P V</h1>
 <h3 align="center">Flutter Developer</h3>
   
- <div align='center'> 
- <img width = "400px" src="https://media.giphy.com/media/xTk9ZGZc51feh9BqX6/giphy.gif" width="500px" alt="Gif">
- </a>
- </div>
-<p align="center">
-
-        
 </p>
 <h4 align="center"> Languages</h4>
    <p align="center">
