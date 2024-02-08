@@ -1,8 +1,14 @@
 
 <h1 align="center">Sarath Krishnan P V</h1>
 <h3 align="center">Flutter Developer</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  
+ <div align='center'> 
+ <img width = "400px" src="https://media.giphy.com/media/xTk9ZGZc51feh9BqX6/giphy.gif" width="500px" alt="Gif">
+ </a>
+ </div>
+<p align="center">
 
+        
 </p>
 <h4 align="center"> Languages</h4>
    <p align="center">
