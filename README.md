@@ -2,12 +2,10 @@
 <h1 align="center">Sarath Krishnan P V</h1>
 <h3 align="center">Flutter Developer</h3>
   
-<div style="position: relative; width: 400px; height: auto;">
-  <img style="width: 100%; height: auto;" src="https://media.giphy.com/media/xTk9ZGZc51feh9BqX6/giphy.gif" alt="Gif">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); display: flex; justify-content: center; align-items: center;">
-    <p style="color: white; font-size: 24px; font-weight: bold;">Click here to play</p>
-  </div>
-</div>
+ <div align='center'> 
+ <img width = "400px" src="https://media.giphy.com/media/xTk9ZGZc51feh9BqX6/giphy.gif" width="500px" alt="Gif">
+ </a>
+ </div>
 
 <p align="center">
 
